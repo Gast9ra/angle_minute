@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="angle_minute:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/angle_minute_jar</output-path>
+    <root id="archive" name="angle_minute.jar">
+      <element id="module-output" name="angle_minute" />
+    </root>
+  </artifact>
+</component>
