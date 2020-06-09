@@ -1,1 +1,1 @@
-# calculate angle of minute for any distance 
+# calculate  minute of angle  for shooting
